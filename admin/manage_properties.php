@@ -14,7 +14,7 @@ if (isset($_GET['search'])) {
 $stmt->execute();
 $result = $stmt->get_result();
 ?>
-
+<!-- hi this is second commit -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
